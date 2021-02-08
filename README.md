@@ -1,4 +1,4 @@
-# goiteens-it-test
+# Сертификация. Интернет-грамотность. "Пользователь Интернет. Уровень 1."
 ## Базовая коммуникация:
 * Регистрация аккаунта в google (необходимо для доступов к различным сервисам). (<a href = "https://accounts.google.com/signup/v2/webcreateaccount?continue=https%3A%2F%2Faccounts.google.com%2F&dsh=S-989171567%3A1612823666493314&gmb=exp&biz=false&flowName=GlifWebSignIn&flowEntry=SignUp">Регистрация аккаунта .</a>)
 * Сервис скриншотов (необходимо для того, чтобы демонстрировать то, что у вас на экране).
